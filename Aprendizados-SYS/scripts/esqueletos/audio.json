@@ -1,0 +1,220 @@
+{
+ "tipo_track": "audio",
+ "segmento": {
+  "id": "5685AC0A-82AA-4035-8EDF-561E3B6BBFDE",
+  "source_timerange": {
+   "start": 0,
+   "duration": 3233333
+  },
+  "target_timerange": {
+   "start": 766666,
+   "duration": 3233334
+  },
+  "render_timerange": {
+   "start": 0,
+   "duration": 0
+  },
+  "desc": "",
+  "state": 0,
+  "speed": 1.0,
+  "is_loop": false,
+  "is_tone_modify": false,
+  "reverse": false,
+  "intensifies_audio": false,
+  "cartoon": false,
+  "volume": 0.430679589509964,
+  "last_nonzero_volume": 1.0,
+  "clip": null,
+  "uniform_scale": null,
+  "material_id": "AFBF3A71-510F-4b8d-84F1-89290FA0EEA8",
+  "extra_material_refs": [
+   "EBF7AFC5-DF5E-4f31-A607-393B57A951FE",
+   "1B23DD68-96BB-475e-9BC3-39D7CDF74F46",
+   "D2B181F3-1711-4bf3-A981-2261C27CAA93",
+   "25D00722-0375-4d09-AE50-0FF5C1E73AFF",
+   "803BBA6C-A92D-400c-8E73-A22BCDD685F4"
+  ],
+  "render_index": 0,
+  "keyframe_refs": [],
+  "enable_lut": false,
+  "enable_adjust": false,
+  "enable_hsl": false,
+  "visible": true,
+  "group_id": "",
+  "enable_color_curves": true,
+  "enable_hsl_curves": true,
+  "track_render_index": 2,
+  "hdr_settings": null,
+  "hdr_vivid_settings": null,
+  "enable_color_wheels": true,
+  "track_attribute": 0,
+  "is_placeholder": false,
+  "template_id": "",
+  "enable_smart_color_adjust": false,
+  "template_scene": "default",
+  "common_keyframes": [],
+  "caption_info": null,
+  "responsive_layout": {
+   "enable": false,
+   "target_follow": "",
+   "size_layout": 0,
+   "horizontal_pos_layout": 0,
+   "vertical_pos_layout": 0
+  },
+  "enable_color_match_adjust": false,
+  "enable_color_correct_adjust": false,
+  "enable_adjust_mask": false,
+  "raw_segment_id": "",
+  "lyric_keyframes": null,
+  "enable_video_mask": true,
+  "digital_human_template_group_id": "",
+  "color_correct_alg_result": "",
+  "source": "segmentsourcenormal",
+  "enable_mask_stroke": false,
+  "enable_mask_shadow": false,
+  "enable_color_adjust_pro": false,
+  "segment_color_tag": ""
+ },
+ "materiais": {
+  "audios": [
+   {
+    "id": "AFBF3A71-510F-4b8d-84F1-89290FA0EEA8",
+    "unique_id": "",
+    "type": "sound",
+    "name": "Whizzing",
+    "duration": 3233333,
+    "path": "C:\\Users\\iGreen\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\270677b49d33e1e347819050db9ee915.mp3",
+    "category_name": "heycan_search_sound",
+    "wave_points": [],
+    "music_id": "",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "6864839893982382082",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0.0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null
+   }
+  ],
+  "speeds": [
+   {
+    "id": "EBF7AFC5-DF5E-4f31-A607-393B57A951FE",
+    "type": "speed",
+    "mode": 0,
+    "speed": 1.0,
+    "curve_speed": null
+   }
+  ],
+  "placeholder_infos": [
+   {
+    "id": "1B23DD68-96BB-475e-9BC3-39D7CDF74F46",
+    "type": "placeholder_info",
+    "meta_type": "none",
+    "res_path": "",
+    "res_text": "",
+    "error_path": "",
+    "error_text": ""
+   }
+  ],
+  "beats": [
+   {
+    "id": "D2B181F3-1711-4bf3-A981-2261C27CAA93",
+    "type": "beats",
+    "enable_ai_beats": false,
+    "gear": 404,
+    "gear_count": 0,
+    "mode": 404,
+    "user_beats": [],
+    "user_delete_ai_beats": null,
+    "ai_beats": {
+     "melody_url": "",
+     "melody_path": "",
+     "beats_url": "https://sf16-web-music.capcutstatic.com/obj/tos-alisg-v-2774/oQAfAlzB8tIDt08ZFvIALPCN7MgbMTofACXIhn",
+     "beats_path": "",
+     "melody_percents": [
+      0.6000000238418579
+     ],
+     "beat_speed_infos": []
+    }
+   }
+  ],
+  "sound_channel_mappings": [
+   {
+    "id": "25D00722-0375-4d09-AE50-0FF5C1E73AFF",
+    "type": "none",
+    "audio_channel_mapping": 0,
+    "is_config_open": false
+   }
+  ],
+  "vocal_separations": [
+   {
+    "id": "803BBA6C-A92D-400c-8E73-A22BCDD685F4",
+    "type": "vocal_separation",
+    "choice": 0,
+    "removed_sounds": [],
+    "time_range": null,
+    "production_path": "",
+    "final_algorithm": "",
+    "enter_from": ""
+   }
+  ]
+ },
+ "capcut": "9.5.0",
+ "capturado_em": "2026-10-20 13:30",
+ "origem": "1001"
+}

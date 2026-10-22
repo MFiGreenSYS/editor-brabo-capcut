@@ -1,0 +1,12 @@
+# texto com fim de linha do Windows na máquina de cada um; binários nunca convertidos
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.onnx binary
+*.ttf binary
+*.wav binary
+*.mp4 binary
+*.png binary
+*.svg binary

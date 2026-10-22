@@ -1,0 +1,13 @@
+# Editor Brabo CapCut · MKT iGreen — bibliotecas do motor (Python 3.12, Windows 11)
+# Instalar com:  python -m pip install -r requirements.txt     (o instalar.ps1 faz isso)
+# Versões = as da máquina onde o sistema foi validado (22/10/2026).
+numpy==2.5.3
+opencv-python==5.0.0.93
+onnxruntime==1.31.0
+pillow==12.3.0
+fonttools==4.66.1
+# decupagem e legenda (transcrição da fala); traz o torch, é a parte mais pesada
+openai-whisper==20250625
+# conferência de som sem export (ouvir_saida.py) e regenerar a Inter limpa (fonte_limpa.py)
+soundcard
+skia-pathops

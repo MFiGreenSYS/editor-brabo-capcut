@@ -1,0 +1,22 @@
+# Editor Brabo CapCut — o que é de cada máquina não vai para o Git
+
+# projetos de vídeo (brutos, rascunhos de trabalho, exports): ficam na máquina de quem edita
+PROJETOS/*
+!PROJETOS/novo_projeto.py
+!PROJETOS/_TEMPLATE/
+
+# backups automáticos do motor (cópias dos rascunhos do CapCut)
+_backups/
+
+# gerados por projeto (o motor recria quando precisa)
+Aprendizados-SYS/pilulas/
+
+# Python / sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# configuração local do Claude Code de cada um
+.claude/settings.local.json
