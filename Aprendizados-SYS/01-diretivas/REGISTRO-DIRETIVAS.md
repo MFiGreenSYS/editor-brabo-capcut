@@ -5,6 +5,7 @@ aqui só o que é do CapCut/MKT iGreen ou o que veio de lá e vale aqui (marcado
 
 | Data | Diretiva | Onde aplicar |
 |---|---|---|
+| 22/10/2026 | "Transformar isso para replicar para outros editores, Claude etc., de forma idêntica cada uma das skills": o sistema virou repositório Git (regras sim, projetos não). Melhoria = branch + MOTOR OK + PR aprovado pelo Matheus. | todo o sistema |
 | 22/10/2026 | "Não saiu os sons dos clicks e zoom… tem que ser dinâmicos": SFX tem que tocar e variar (rodízio de click_a/b/c e whoosh_a/b/c, volume variando). "Tá excelente" no resto (voz, letras, câmera). | sound design |
 | 22/10/2026 | "Os textos tão recortados, linhas nos A, precisam ser textos editáveis": letreiro é TEXTO do CapCut (editável), com a Inter limpa (sem emenda). "Click quando mudar a posição da câmera com zoom… não em todos, alternando": `cliques-camera --a-cada 2`. | letreiros, texto atrás, sound design, câmera |
 | 22/10/2026 | **"Nunca tire a voz do apresentador"** (o 1020 estava mudo) e "a máscara mexe" (a pessoa recortada não casava com o vídeo de baixo). A voz é intocável; o recorte tem que bater quadro a quadro. Travado no motor (`garantir_voz`, `validar`, teste). | todas; texto atrás, câmera |
